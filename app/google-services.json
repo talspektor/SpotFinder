@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "806309474516",
+    "firebase_url": "https://spotfinder-9bdf6.firebaseio.com",
+    "project_id": "spotfinder-9bdf6",
+    "storage_bucket": "spotfinder-9bdf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806309474516:android:761fd4fd473b5658",
+        "android_client_info": {
+          "package_name": "com.talspektor2.spotfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806309474516-sqvmkt2758t3mf08ji615vc7dmcnprau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.talspektor2.spotfinder",
+            "certificate_hash": "0492e558b43f0ce1b7f9938507cf16fe988f4309"
+          }
+        },
+        {
+          "client_id": "806309474516-3cg80rjf605vbogk6fid57vmhnke9pth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5qkWAdC0ErAt3YNIk46rt1M54Ga3buUM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806309474516-3cg80rjf605vbogk6fid57vmhnke9pth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
